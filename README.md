@@ -15,7 +15,7 @@
 
 | Dimas Adi Bayu Samudra | Dwi Ahmad Khairy | Adinda Mirza Devani | Riovaldo Alfiyan Fahmi Rahman | Zilan Zalilan |
 |:-------------------:|:---------------:|:--------------:|:--------------------:|:--------------------:|
-| <img src="Images/dimas.jpg" width="150" height="150" style="border-radius: 10%"> | <img src="Images/dwi.jpg" width="150" height="150" style="border-radius: 10%"> | <img src="Images/funi.jpg" width="150" height="150" style="border-radius: 10%"> | <img src="Images/rio.jpg" width="150" height="150" style="border-radius: 10%"> | <img src="Images/zilan.jpg" width="150" height="150" style="border-radius: 10%"> |
+| <img src="Images/dimas.jpeg" width="150" height="150" style="border-radius: 10%"> | <img src="Images/dwi.jpeg" width="150" height="150" style="border-radius: 10%"> | <img src="Images/funi.png" width="150" height="150" style="border-radius: 10%"> | <img src="Images/rio.jpeg" width="150" height="150" style="border-radius: 10%"> | <img src="Images/zilan.jpeg" width="150" height="150" style="border-radius: 10%"> |
 | 2341720169 | 2341720073 | 2341720046 | 2341720209 | 244107023003 |
 
 
@@ -105,4 +105,5 @@ Melalui proyek ini, sistem Business Intelligence berhasil dibangun untuk membant
 ---
 
 > 📘 *Proyek ini dikembangkan sebagai bagian dari Tugas Akhir dengan fokus pada implementasi ETL, Data Warehouse, dan Visualisasi Data.*
+
 
